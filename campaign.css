@@ -1,0 +1,72 @@
+*{
+    background-color:paleturquoise;
+}
+
+#donate_logo {
+    width: 200px;
+    height: 200px;
+    margin: 0px 10px;
+}
+  
+.title{
+    color:darkslateblue;
+    font: 500% "Stencil Std", fantasy;
+    text-align: justify;
+    margin: 0px 0px;
+}
+
+.tagline{
+    font-style: oblique;
+    font-size: 250%;
+    text-align: justify;
+    margin: 0px 0px;
+}
+
+.quranic-verse{
+    color:rgb(48, 48, 186);
+    font: italic bold 200% "Fira Sans", serif;
+    text-align: justify;
+    margin: 0px 0px;
+}
+
+/* button css */
+button {
+    background-color:rgb(193, 193, 241);
+    border: none;
+    color:rgb(48, 48, 186);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+/* form css */
+form{
+    color:rgb(48, 48, 186);
+    font-size: 150%;
+    font-weight: bolder;
+    text-align: justify;
+    margin: 0px 0px;
+}
+
+/*footer css*/
+footer{
+    height: 230px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+  
+footer #iium_logo{
+    width: 100px;
+    height: 100px;
+}
+  
+footer .contact_info{
+    color:rgb(48, 48, 186);
+    margin: 0px;
+}
+/* end of footer */
