@@ -38,7 +38,7 @@ To integrate this donation form interaction, follow these steps:
     });
 
 ## Clone the repository and include the JavaScript file in your project:   
-git clone https://github.com/your-username/donation-form-interaction.gitcd donation-form-interaction
+git clone https://github.com/arifazman03/donation-form-interaction.gitcd donation-form-interaction
 
 ## This project is licensed under the MIT License. Feel free to integrate and customize this simple form interaction for your donation or submission forms.
 This example README file provides a clear overview of the JavaScript interaction, usage instructions, and installation steps for potential users or contributors. Customize it further based on your project's specific details and requirements.
