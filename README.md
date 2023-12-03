@@ -17,10 +17,10 @@ To integrate this donation form interaction, follow these steps:
 2. Ensure your form and submit button have the specified IDs:
 
    ```html
-  <form id="form">
-    <!-- Your form fields go here -->
-    <button type="button" id="submitButton">Submit</button>
-  </form>
+   <form id="form">
+      <!-- Your form fields go here -->
+      <button type="button" id="submitButton">Submit</button>
+   </form>
 
 3. Customize the alerts or further actions based on requirements.
 
