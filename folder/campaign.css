@@ -1,0 +1,88 @@
+*{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+#donate_logo {
+    width: 200px;
+    height: 200px;
+    margin: 0px 10px;
+}
+
+section{
+    background-color:paleturquoise;
+}
+
+.header{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.title{
+    color:darkslateblue;
+    font: 700% "Stencil Std", fantasy;
+    margin: 0px 0px;
+}
+
+.tagline{
+    font-style: oblique;
+    font-size: 250%;
+    margin: 0px 0px;
+}
+
+.quranic-verse {
+    color:rgb(48, 48, 186);
+    font: italic bold 200% "Fira Sans", serif;
+    margin: 0px 0px;
+}
+
+.salary-deduction-form{
+    color: black;
+    font: bolder;
+    text-decoration: underline;
+}
+
+/* button css */
+button {
+    background-color:rgb(193, 193, 241);
+    border: none;
+    color:rgb(48, 48, 186);
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+/* form css */
+form{
+    color:rgb(48, 48, 186);
+    background-color: whitesmoke;
+    font-size: 150%;
+    font-weight: bolder;
+    margin: 0px 0px;
+}
+
+/*footer css*/
+footer{
+    background-color:paleturquoise;
+    height: 230px;
+    display: flex;
+}
+  
+footer #iium_logo{
+    width: 100px;
+    height: 100px;
+}
+  
+footer .contact_info{
+    color:rgb(48, 48, 186);
+    margin: 0px;
+}
+
+footer div{
+    display: flex;
+    flex-wrap: wrap;
+}
