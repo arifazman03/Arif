@@ -2,18 +2,6 @@ TEST
 ![sequence diagram (2)](https://github.com/user-attachments/assets/b7feaaf3-10da-44fd-abec-956008936cf0)
 
 
-![Screenshot (185)](https://github.com/user-attachments/assets/b77c0ece-eec7-495c-ae17-0869e607355e)
-![Screenshot (186)](https://github.com/user-attachments/assets/a02d9ba8-57f7-4695-9586-a7f1c4547e21)
-![Screenshot (191)](https://github.com/user-attachments/assets/d503e61f-32eb-49b0-9d93-b6c4deefd02e)
-
-eff
-
-![Screenshot (192)](https://github.com/user-attachments/assets/15f38d17-12b6-41fa-a755-3808f0c698d7)
-![Screenshot (200)](https://github.com/user-attachments/assets/6324a70e-ccbf-4cbe-b922-9060025c2057)
-![Screenshot (219)](https://github.com/user-attachments/assets/0f2c3bfd-bec1-4ce6-a6b0-3850f5332d70)
-
-wdwd
-
-![Screenshot (221)](https://github.com/user-attachments/assets/0564b65c-7ecc-40b4-9fa8-af37be704d60)
-![Screenshot (222)](https://github.com/user-attachments/assets/0c8bce38-480c-495c-a2ce-4ba276d6166d)
-![Screenshot (239)](https://github.com/user-attachments/assets/bc88da52-fd3b-4e48-aeeb-00fa80a1f1cf)
+![Doctor View and Delete - arif](https://github.com/user-attachments/assets/a95b9791-0794-478e-8395-dd8120cb5747)
+![Doctor Add - arif](https://github.com/user-attachments/assets/7b208519-488d-4b75-819b-4523cb744b1a)
+![Doctor Edit - arif](https://github.com/user-attachments/assets/09a69d1b-fcf3-4d56-8aa5-80f0d3a1c3d1)
